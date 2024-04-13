@@ -1,0 +1,204 @@
+html{
+    width: 100;
+    height: 100;
+}
+
+body{
+    background-color: #EEF2F9;
+    
+   
+}
+
+font-popins {
+    font-family: "Poppins", sans-serif;
+}
+
+.card{
+    background-color: #ffffff;
+    
+}
+
+.card{
+    width: 887px;
+    height: 661px;
+    margin: 50px auto;
+    margin-left: 100px;
+    border-radius: 15px;
+    
+}
+
+.clearfix{
+    clear: both;
+}
+
+.card-left {
+    float: left;
+}
+
+img{
+    width: 250px;
+    height:250px;
+    padding: 34px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.card-left figure img{
+    object-fit: cover;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.card-reight{
+    float: right;
+}
+
+.card-reight p{
+    width: 112px;
+    height: 29px;
+    border-radius: 20px;
+    padding: 9px;
+    color: #ffffff;
+    line-height: 10px;
+    background-color: #191847;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.card-reight{
+    float: left;
+}
+
+.card-reight h3{
+   font-weight: 600px;
+   font-size: 24px;
+   line-height: 32px;
+   color: #191847;
+   margin-left: 50px auto;
+   
+
+}
+
+.card-reight h6{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #191847;
+    margin-top: 32px;
+
+}
+
+
+.card-reight h1{
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 72px;
+    color: #191847;
+    margin-top: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+.card-reight text {
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #191847;
+    margin-top: 32px;
+}
+
+.card-reight button{
+    width: 420px;
+    height: 59px;
+    border-radius: 8px;
+    padding: 0px;
+    margin-top: 32px;
+    background-color: #4788E9;
+
+}
+
+.card-reight button:hover{
+    background-color: #9ebae4;
+    box-shadow: 0 5px 0 grey;
+    
+
+}
+
+
+.card-reight button h6{
+    
+    width: 101px;
+    height: 27px;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: 150px;
+    color: #ffffff;
+    margin-top: 0;
+    
+}
+
+
+
+
+.bot i{
+    width: 15px;
+    height: 21px;
+    font-size: 12px;
+    line-height: 45px;
+    color: rgb(16, 243, 167);
+}
+
+.boxs{
+    width: 442px;
+    height: 64px;
+    border: 2px solid #ffffff;
+    margin: 50px auto;
+    padding: 15px;
+
+}
+
+.box{
+    width: 200px;
+    height: 50px;
+    border: 2px solid #C9C9DA;
+    font-size: 20px;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 8px;
+
+}
+
+.box-1{
+    float: left;
+    
+
+}
+
+.box-2{
+    float: right;
+}
+
+.card-reight box, .box-2:hover{
+    background-color: #e3e6eb;
+    box-shadow: 0 5px 0 grey;
+    
+
+}
+
+
+.card-reight  box, .box-1:hover{
+    background-color: #e3e6eb;
+    box-shadow: 0 5px 0 grey;
+    
+
+}
+
+
+
+
+.card-reight{
+    margin-top: 80px;
+}
